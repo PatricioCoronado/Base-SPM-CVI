@@ -16,7 +16,7 @@
 ![app](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen0.png "app")
 ![base](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen1.png "base")
 ![PCB_A](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen2.png "PCB_A")
-![cabeza](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen3.png "cabeza")
+![cabeza](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen3.jpg "cabeza")
 
 
 
