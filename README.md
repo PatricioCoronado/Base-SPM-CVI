@@ -13,10 +13,10 @@
 ## [MANUAL](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE-V1.2/blob/version_1_2/ficheros/Manual.pdf)
 ## IMAGENES
 ##
-![app](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/version_final/ficheros/imagen0.png "app")
-![base](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/version_final/ficheros/imagen1.png "base")
-![PCB_A](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/version_final/ficheros/imagen2.png "PCB_A")
-![cabeza](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/version_final/ficheros/imagen3.jpg "cabeza")
+![app](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen0.png "app")
+![base](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen1.png "base")
+![PCB_A](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen2.png "PCB_A")
+![cabeza](https://github.com/PatricioCoronado/Base-SPM-CVI/blob/main/ficheros/imagen3.png "cabeza")
 
 
 
